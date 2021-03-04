@@ -18,4 +18,4 @@
 
 - Jika tidak keluar IP maka coba gunakan TOKEN lain atau jangan gunakan satu token secara bersamaan 
 - Jika ingin menggunakan Banyak VPS, maka gunakan TOKEN yang berbeda, disarankan membuat akun NGROK dengan email sementara (https://emailfake.com/)
-
+- Jika masih tidak mau berjalan maka buat akun github lg :)
