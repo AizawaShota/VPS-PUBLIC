@@ -11,8 +11,9 @@
 - Masuk/Buat akun Ngrok kalian di https://dashboard.ngrok.com/
 - Jika sudah klik Settings > Secrets > New repository secret lalu buat dengan nama NGROK_AUTH_TOKEN, untuk value pastekan Token NGROK kalian
 - Klik Add Secrets
-- Lalu klik Action > VPS-RDP > Run workflow, setelah itu klik VPS-RDP > build
-- Tunggu hingga proses pembuatan VPS selesai lalu akan muncul IP, User, Password
+- Lalu klik Action > VPS-RDP > Run workflow, setelah itu klik VPS-RDP > klik build
+- Tunggu hingga proses pembuatan VPS selesai > lalu klik pada bagian RDP 2core-7GB Ram > lalu akan muncul IP, User, Password
+- Setelah itu tinggal kalian masukkan Akun VPS yang telah kalian buat tadi pada Remote Desktop Connection
 
 # Note
 
