@@ -24,7 +24,7 @@ jobs:
     - name: Download Important Files.
       run: |
         Invoke-WebRequest https://drive.google.com/uc?id=1HhhlgGEvc3UFq8S-4N4IkYl2CgRXdv0Y  -OutFile NGROK-AP.bat
-        Invoke-WebRequest https://drive.google.com/uc?id=1FYD2lZ7i-KYA7kt3zcfVQ8c1iKv7ONYX  -OutFile NGROK-CHECK.bat
+        Invoke-WebRequest https://drive.google.com/uc?id=1C-JdImehD39jnbcgo3zH_NXUaOfzpWli  -OutFile NGROK-CHECK.bat
         Invoke-WebRequest https://drive.google.com/uc?id=1MFl0SWh1bqeKqYmHp2oS4WK_DatgPiVD  -OutFile loop.bat
     - name: Make YML file for NGROK.
       run: start NGROK-AP.bat
