@@ -20,7 +20,7 @@
 
 - Jika tidak keluar IP maka coba gunakan TOKEN lain atau jangan gunakan satu token secara bersamaan
 - Jika ingin menggunakan Banyak VPS, maka gunakan TOKEN yang berbeda, disarankan membuat akun NGROK dengan email sementara (https://emailfake.com/)
-- Jika akun sementara yang dibuat tidak bisa digunakan atau "Akun anda telah ditandai", maka coba ganti IP jaringan (Disarankan menggunakan jaringan paket data)
+- Jika akun sementara yang dibuat tidak bisa digunakan atau "Akun anda telah ditandai", maka coba ganti IP jaringan saat membuat akun(Disarankan menggunakan jaringan paket data)
 - Jika masih tidak mau berjalan maka buat akun github lg :)
 - Jangan digunakan untuk Hacking, Mining, Gaming, Penipuan
 - Jika melakukan hal ilegal akan ditindak tegas team Cyber Security
